@@ -1,1 +1,1 @@
-# Informatics-Final-Project
+# IP-Project
